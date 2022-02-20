@@ -1,4 +1,11 @@
-# Next.js + Tailwind CSS Example
+# Spotify clone demo remote
+
+## Introduction
+## Next.js + Tailwind CSS Example
+* Create a remote of your Spotify playlist with Spotify API.
+* This project demonstrates using Next.js middleware.
+
+
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
